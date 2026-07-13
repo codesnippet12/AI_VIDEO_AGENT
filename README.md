@@ -260,7 +260,7 @@ screenshots/chat.png
 **Subhranil Das**
 
 - GitHub: https://github.com/codesnippet12
-- LinkedIn: Add your LinkedIn profile
+- LinkedIn: https://www.linkedin.com/in/subhranil-das-software-engineer/
 
 ---
 
